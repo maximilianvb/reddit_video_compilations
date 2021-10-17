@@ -1,0 +1,15 @@
+{
+  "subreddit": "idiotsincars",
+  "video_length": 600,
+  "videos_to_fetch": 50,
+  "time_span": "month",
+  "resolution": [1280, 1280],
+  "merge_resolutions": false,
+  "replace_copyrighted_audio": true,
+  "ignore_videos_without_sound": true,
+  "add_royalty_music": false,
+  "nsfw": false,
+  "client_id": "",
+  "client_secret": "",
+  "user_agent": ""
+}
